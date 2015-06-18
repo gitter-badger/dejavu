@@ -1,6 +1,8 @@
 dejavu
 ==========
 
+[![Join the chat at https://gitter.im/luosha865/dejavu](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/luosha865/dejavu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Audio fingerprinting and recognition algorithm implemented in Python, see the explanation here:  
 [How it works](http://willdrevo.com/fingerprinting-and-audio-recognition-with-python.html)
 
